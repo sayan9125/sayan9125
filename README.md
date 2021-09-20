@@ -6,7 +6,7 @@
 - 🎓 I'm currently studying Computer Science at the SRM University.
 - 🌱 I'm on track for learning more about Web Development and Data Science.
 - ✍️ In my free time, I explore new technologies and stuff as hobbies/side hustles.
-- 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+
 - ✉️  You can shoot me an email at sm9804@srmist.edu.in! I'll try to respond as soon as I can.
 
 ### Github Stats
